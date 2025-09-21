@@ -13,6 +13,10 @@ This project demonstrates an end-to-end Vulnerability Assessment and Penetration
 
 ## 📸 Evidence
 All screenshots are stored in the `/screenshots` folder.
+<img width="1169" height="941" alt="Screenshot 2025-09-21 095735" src="https://github.com/user-attachments/assets/a420e8e3-a754-4e11-aac1-f13f3c57d138" />
+
+<img width="1170" height="864" alt="Screenshot 2025-09-21 085607" src="https://github.com/user-attachments/assets/72c3b665-4bd1-4a4c-bbfa-deff5544f110" />
+
 
 ## 📄 Report
 Detailed findings and remediation steps are documented in `report.md`.
